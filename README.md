@@ -4,4 +4,5 @@ This repo discusses some basic applications of OpenCV-Python which could help in
 * Face Detection
 * Eyes Detection
 * Feature Extraction
-  All the above could be performed on images(jpg, jpeg, png) or videos from the memory or on the LiveFeed from the webcam  as well.
+  
+All the above could be performed on images(jpg, jpeg, png) or videos from the memory or on the LiveFeed from the webcam  as well.
